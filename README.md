@@ -1,4 +1,4 @@
-# "Name of team" - Team
+# "Name of team" - Team 2
 ## Name of game: 
 ## Members: 
 ## Position: 
